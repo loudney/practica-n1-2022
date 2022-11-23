@@ -1,0 +1,28 @@
+body {
+    font-size: 15pt;
+    background-color:#BDBDBD;
+}
+p{ 
+  font-size: 35pt;
+}
+
+h1{
+  font-size: 15px;
+  color: #F5F5F5;
+}
+h2{
+  color:  #3F51B5;
+  border: 2px;
+  padding: 5px;
+  
+}
+img{
+  width:95px;
+  height: 90px;
+}
+table{  
+  text-align: center;
+  color: #F5F5F5;
+
+}
+h2{text-align: center;}
